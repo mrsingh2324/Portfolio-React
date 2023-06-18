@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Typing Speed Checker",
+    "category": "Front End Project",
+    "description": "A simple typing speed checker that allows you to test your typing speed and accuracy.",
+    "image": "https://i.imgur.com/2ZQ4Y9M.png",
+    "link": "https://github.com/mrsingh2324"
+  },
+  {
+    "id": 2,
+    "title": "Contact App",
+    "category": "React Native Project",
+    "description": "A contacts app using react native where you can check your contacts and add new contacts.",
+    "image": "https://i.imgur.com/2ZQ4Y9M.png",
+    "link": "https://github.com/mrsingh2324"
+  },
+  {
+    "id": 3,
+    "title": "Calculator Suite",
+    "category": "Front End Project",
+    "description": "A multi functioning Calculator website that consists of many category of calculators.",
+    "image": "https://i.imgur.com/2ZQ4Y9M.png",
+    "link": "https://github.com/mrsingh2324"
+  }
+]

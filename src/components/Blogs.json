@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "image": "/images/miraquill.png",
+      "title": "Miraquill",
+      "since": "2021",
+      "link": "https://www.miraquill.com/satyam_singh",
+      "description": "Started writing about all my thoughts to store my thinkings!"
+    },
+    {
+      "id": 2,
+      "image": "/images/yourquote.png",
+      "title": "Yourquote.in",
+      "since": "2020",
+      "link": "https://www.yourquote.in/satyam-singh-b0nl9/quotes",
+      "description": "Was in love for the first time and it made me write about her !"
+    },
+    {
+      "id": 3,
+      "image": "/images/blogspot.png",
+      "title": "Blogger.com",
+      "since": "2022",
+      "link": "https://mrsingh2324.blogspot.com/",
+      "description": "Currently writing about thoughts that I found daily being intested !"
+    },
+    {
+      "id": 4,
+      "image": "../images/writco.png",
+      "title": "Writco.in",
+      "since": "2021",
+      "link": "https://github.com/project3",
+      "description": "Over 300 quotes by me only, you can finf some of them related to yourself too!"
+    },
+    {
+      "id": 5,
+      "image": "../images/writco.png",
+      "title": "Writco.in",
+      "since": "2021",
+      "link": "https://github.com/project3",
+      "description": "This blog page is !"
+    }
+  ]
+  
